@@ -1,3 +1,2 @@
 # BAEKJOON
-- Kotlin
-- Swift
+- Python
