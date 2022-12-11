@@ -1,4 +1,3 @@
 # BAEKJOON
 - Kotlin
 - Swift
-- Java
