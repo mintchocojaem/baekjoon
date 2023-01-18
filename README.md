@@ -1,3 +1,2 @@
 # BAEKJOON
 - Python
-- Swift
